@@ -7,6 +7,7 @@ body {
     animation-name: blinkBody;
     animation-iteration-count: infinite;
     animation-duration: 5s;
+    user-select: none;
 }
 
 img {
